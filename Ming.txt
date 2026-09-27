@@ -1,4 +1,6 @@
 !Title:Ming
+!Description:
+!Homepage:https://github.com/Nullbytename/AdGuard-Rule
 #快对
 ||maplehaze.cn^
 ||mnt.hyzhihe.com^
@@ -308,7 +310,6 @@
 ||unet.quark.cn^
 ||line3-h5-mobile-api.biligame.com^
 ||at.pinduoduo.com^
-||ks-sh-tracker-02.biliapi.net^
 ||impression.biligame.com^
 ||gaoneng.bilibili.com^
 ||line1-h5-mobile-api.biligame.com^
