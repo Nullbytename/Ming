@@ -1,4 +1,4 @@
-!Title:Ming
+!Title: Ming
 !Description:
 !Homepage:https://github.com/Nullbytename/My-AdGuard-rule
 #快对
@@ -32,9 +32,6 @@
 ||yourongsj.com^
 ||ads-tracker.yourongsj.com^
 ||apis.xayabx.com^
-||log.kuaiduizuoye.com^
-||gslb-ks.laiyagushi.com^
-||open.laiyagushi.com^
 ||mpic.uncletalk.com^
 ||bd-cdn.halomobi.com^
 ||v66-ad.ndcjl.com^
@@ -46,8 +43,6 @@
 ||img1.360buyimg.com^
 ||adx.zuoyebang.com^
 ||w2.kskwai.com^
-||config-p2p-other.vcloud.ks-live.com^
-||slb-p2p.vcloud.ks-live.com^
 ||cgi.connect.qq.com^
 ||bayescom.com^
 ||xiaojugov.com^
@@ -55,7 +50,6 @@
 ||tencentads.com^
 ||tracking-adnet.vivo.com.cn^
 ||lf-leads-fe-scm.bytecdn.com^
-||tnc3-aliec2.zijieapi.com^
 ||liuliangguo.com^
 ||wi-fi.cn^
 ||utofairy.com^
@@ -395,8 +389,6 @@
 ||pull-f5-hot.flive.douyincdn.com^
 ||adx.ys7.com^
 ||adxhz.ys7.com^
-||kwimgs.com^
-||txmov2.a.kwimgs.com^
 @@||gukahdbam.com^
 @@||openlog.tapapis.cn^
 @@||gid.tapapis.cn^
