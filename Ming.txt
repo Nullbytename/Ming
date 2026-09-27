@@ -1,4 +1,4 @@
-!Title: Ming
+! Title: Ming
 !Description:
 !Homepage:https://github.com/Nullbytename/My-AdGuard-rule
 #快对
@@ -83,7 +83,6 @@
 ||pigeonretry.service.kugou.com^
 #中国电信
 |||appgoadsz.189.cn^
-#||appgoadhd.189.cn^
 @@||bkappad.189.cn^
 #WiFi万能钥匙
 ||dsplog-adnet.vivo.com.cn^
