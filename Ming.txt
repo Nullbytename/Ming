@@ -3,7 +3,6 @@
 ||maplehaze.cn^
 ||mnt.hyzhihe.com^
 ||m.ctrip.com^
-||api.sm.cn^
 ||ad.aiyituo.com^
 ||aiyituo.com^
 ||rcv.aiyituo.com^
