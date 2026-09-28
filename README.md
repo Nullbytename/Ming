@@ -3,7 +3,7 @@ Chinese filter
 [我的广告拦截规则](https://raw.githubusercontent.com/Nullbytename/My-AdGuard-rule/refs/heads/main/Ming.txt)
 
 
-推荐使用这些更好的规则：
+推荐些规则：
 
 [GOODBYEADS主页](https://github.com/8680/GOODBYEADS)
 
