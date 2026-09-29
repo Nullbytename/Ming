@@ -1,6 +1,6 @@
 ! Title: Ming
 !Description:
-!Homepage:https://github.com/Nullbytename/My-AdGuard-rule
+!Homepage:https://github.com/Nullbytename/Ming
 #快对
 ||maplehaze.cn^
 ||mnt.hyzhihe.com^
