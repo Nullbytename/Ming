@@ -516,15 +516,15 @@
 ||sdk-stats.litemob.net^
 ||litemob.com^
 ||litemob.net^
+||vista.divms.cn^
+||divms.cn^
 
 
 
 
 
-#
 #v11-reading-ad.qznovelvod.com
 #v26-reading-ad.qznovelvod.com
 #v3-reading-ad.qznovelvod.com
 #p3-ad-sign.byteimg.com
 #p9-ad-sign.byteimg.com
-
