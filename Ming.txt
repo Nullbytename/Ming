@@ -145,6 +145,8 @@
 @@||data.sec.miui.com^
 #Anich
 @@||v1.adkwai.com^
+#动漫共和国
+@@||v1-ad.video.yximgs.com^
 #
 ||ads.*.com^
 ||ads.*.cn^
