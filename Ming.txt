@@ -520,7 +520,11 @@
 ||litemob.net^
 ||vista.divms.cn^
 ||divms.cn^
-
+||adn-*.tapimg.com^
+||adn-video-tc.tapimg.com^
+||adn-apk-al.tapimg.com^
+||adn-video-al.tapimg.com^
+||tapad.iem.taptap.cn^
 
 
 
