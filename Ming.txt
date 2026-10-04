@@ -497,7 +497,6 @@
 ||adgain.cn^
 @@||update.avlyun.sec.miui.com^
 ||pixiu-sdk.quark.cn^
-||*.advertisement.*^
 @@||data.sec.miui.com^
 ||acs.youku.com^
 @@||tracker.xiaomixiaoai.com^
@@ -507,7 +506,6 @@
 ||ttwifi.net^
 ||ad.mcloud.139.com^
 @@||e.tapdb.net^
-@@||data.bilibili.com^
 ||ad.baihemob.com^
 ||baihemob.com^
 ||tobidad.cn^
