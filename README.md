@@ -1,6 +1,5 @@
-Chinese filter
 
-[我的广告拦截规则](https://raw.githubusercontent.com/Nullbytename/Ming/refs/heads/main/Ming.txt)
+[我的广告拦截规则](https://raw.githubusercontent.com/Nullbytename/Ming/main/Ming.txt)
 
 
 我推荐些规则：
