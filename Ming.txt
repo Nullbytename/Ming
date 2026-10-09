@@ -523,7 +523,7 @@
 ||adn-apk-al.tapimg.com^
 ||adn-video-al.tapimg.com^
 ||tapad.iem.taptap.cn^
-
+||ads*-normal-*.zijieapi.com^
 
 
 
