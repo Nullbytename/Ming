@@ -524,9 +524,11 @@
 ||adn-video-al.tapimg.com^
 ||tapad.iem.taptap.cn^
 ||ads*-normal-*.zijieapi.com^
-
-
-
+||adx.yuanqizhiguang.cn^
+||yuanqizhiguang.cn^
+||ads-adnet-drcn.cloud.honor.com^
+||wlad-sdk.weliads.com^
+||weliads.com^
 #v11-reading-ad.qznovelvod.com
 #v26-reading-ad.qznovelvod.com
 #v3-reading-ad.qznovelvod.com
