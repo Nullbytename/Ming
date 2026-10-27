@@ -111,6 +111,8 @@
 @@||i.snssdk.com^
 @@||lianmengapi.snssdk.com^
 @@||tnc3-bjlgy.zijieapi.com^
+#剪映
+@@||tnc3-bjlgy.bytedance.com^
 #UC
 @@||m-api.uc.cn^
 @@||drive.uc.cn^
